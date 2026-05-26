@@ -1,3 +1,4 @@
+--only-binary=:all:
 streamlit==1.36.0
 scikit-learn==1.4.2
 imbalanced-learn==0.12.3
